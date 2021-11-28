@@ -2,3 +2,5 @@ Hola soy hernan tengo 42
 Nací en Venezuela
 Estoy en chile
 Me gusta la programacion
+Tengo 3 hermanos
+Viven en Venezuela
