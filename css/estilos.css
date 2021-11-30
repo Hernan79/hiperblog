@@ -39,3 +39,14 @@ padding: 0.5em;
 font-size: 20px;
 }
 
+footer
+{
+    background: rgb(120, 120, 122);
+    height: 40px;
+    font-size: 0.75em;
+    color: rgb(250, 248, 250);
+    text-align: center;
+    padding-top: 0.2em;
+
+
+}
